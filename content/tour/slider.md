@@ -15,7 +15,7 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the hkust-gz
+    - title: Welcome to the hkust-gz
       content: Look more about our school: HKUST-GZ!
       align: center
       background:
