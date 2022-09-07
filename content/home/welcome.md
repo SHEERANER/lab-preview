@@ -20,5 +20,5 @@ design:
 
 <br>
 
-The Tang-lab is a computational biology and bioinformatic lab in HKUST-GZ. 
+The Tang-lab is a computational biology and bioinformatic lab in HKUST-GZ. \n
 Dr. Shaojun Tang is an Assistant Professor in Bioscience and Biomedical Engineer Thrust, an affiliated Assistant Professor at Division of Life Science at the Hong Kong University of Science & Technology (HKUST).
