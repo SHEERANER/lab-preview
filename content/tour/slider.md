@@ -16,7 +16,7 @@ design:
 content:
   slides:
     - title: Welcome to the hkust-gz
-      content: Look more about our school: HKUST-GZ!
+      content: 'Look more about our school: HKUST-GZ!'
       align: center
       background:
         position: right
@@ -27,7 +27,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Click here
-        url: https://hkust-gz.edu.cn/zh-hans
+        url: ../contact/
     - title: Bioinformatics
       content: 'The science of collecting and analysing complex biological data such as genetic codes!'
       align: left
