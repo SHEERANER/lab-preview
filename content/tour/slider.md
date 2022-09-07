@@ -27,7 +27,7 @@ content:
         icon: graduation-cap
         icon_pack: fas
         text: Click here
-        url: ../contact/
+        url: https://hkust-gz.edu.cn/
     - title: Bioinformatics
       content: 'The science of collecting and analysing complex biological data such as genetic codes!'
       align: left
