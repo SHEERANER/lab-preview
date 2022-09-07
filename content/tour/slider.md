@@ -15,24 +15,29 @@ design:
 
 content:
   slides:
-    - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+    - title: 👋 Welcome to the hkust-gz
+      content: Look more about our school: HKUST-GZ!
       align: center
       background:
         position: right
         color: '#666'
         brightness: 0.7
-        media: coders.jpg
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+        media: Two Campuses_1.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Click here
+        url: https://hkust-gz.edu.cn/zh-hans
+    - title: Bioinformatics
+      content: 'The science of collecting and analysing complex biological data such as genetic codes!'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.7
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
+        media: bioinformatics.jpg
+    - title: Tang lab- HKUST Bioinformatics
+      content: 'Welcom to join us!!!'
       align: right
       background:
         position: center
