@@ -7,7 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Wowchemy  
+  Tang-Shaojun  
   Research Group
 hero_media: welcome.jpg
 design:
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The Tang-lab is a computational biology and bioinformatic lab in HKUST-GZ. Dr. Shaojun Tang is an Assistant Professor in Bioscience and Biomedical Engineer Thrust, an affiliated Assistant Professor at Division of Life Science at the Hong Kong University of Science & Technology (HKUST)..
