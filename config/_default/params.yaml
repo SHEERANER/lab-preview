@@ -27,6 +27,10 @@ marketing:
     google: ''
     baidu: ''
 
+# Enabel day and light change
+
+day_night: true
+
 # Site header
 
 header:
@@ -35,7 +39,7 @@ header:
     align: r
     show_logo: true
     show_language: false
-    show_day_night: true
+    show__night: true
     show_search: true
     highlight_active_link: false
 
