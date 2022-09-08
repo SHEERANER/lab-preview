@@ -29,10 +29,13 @@ education:
   courses:
     - course: PhD in Bioscience and Biomedical engineering
       institution: HKUST-GZ
-      year: 2022
+      year: 2022-current
     - course: Master in Engineering
-      institution: China agricultural University
-      year: 2019
+      institution: China Agricultural University
+      year: 2019-2022
+    - course: Bachelor in Engineering
+      institution: Anhui University
+      year: 2015-2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,3 +72,5 @@ He mainly focus on three aspects:
 2) I would like to explore how to use deep learning algorithms to study epigenetics in human diseases, such as cancer and Alzheimer's Disease.
 <br>
 3) During the period of my master and undergraduate study, I also engaged in time series, agricuture, and antimicrobial resistance areas.
+
+Please view my personal web if you want to learn more about myself: https://lbw124765283.github.io/bwliang.github.io/
