@@ -1,41 +1,42 @@
 ---
 # Display name
-title: 吳恩達
+title: Liang Shuxin
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Liang Shuxin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MPhil of Tang-lab
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hong Kong University of Science and Technology - GuangZhou
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Shuxin Liang is an M.Phil student in the Individualized Interdisciplinary Program at the Hong Kong University of Science & Technology (Guangzhou), interested in the field of Future Healthcare Technology. Academically, she got her bachelor’s degree from Sun Yat-sen University and a master’s degree from University College London, majoring in Clinical Nutrition and Public Health. She worked as a research assistant at Hong Kong Polytechnic University for pathological mechanism studies of diabetes mellitus after graduation, and later in 2019, devoted herself to ophthalmological research at Zhongshan Ophthalmic Center, Sun Yat-sen University. Her work included practicing multiple laboratory techniques, metabolomics analysis, clinical data management and statistical analysis, and health promotion education design and implementation.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Neurodegenerative diseases
+  - Precision Medicine
+  - Bioinformatics
+  - Multi-omics Data Integration
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: Master of Clinical and Public Health Nutrition
+      institution: University College London
+      year: 2012
+    - course: Bachelor of Preventive Medicine
+      institution: Sun Yat-Sen University
+      year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
