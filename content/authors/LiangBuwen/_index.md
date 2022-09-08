@@ -65,12 +65,10 @@ user_groups:
 ---
 LIANG Buwen is a Ph.D student at HKUST(GZ), supervised by Prof. Tang.
 
-He mainly focus on three aspects:
+He mainly focus on two aspects:
 
 1) I would like to develope quantitative models and computational methods for analyzing high-throughput data generated from emerging genomics technologies.
 <br>
 2) I would like to explore how to use deep learning algorithms to study epigenetics in human diseases, such as cancer and Alzheimer's Disease.
-<br>
-3) During the period of my master and undergraduate study, I also engaged in time series, agricuture, and antimicrobial resistance areas.
 
 Please view my personal web if you want to learn more about myself: https://lbw124765283.github.io/bwliang.github.io/
