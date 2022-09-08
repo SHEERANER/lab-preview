@@ -71,6 +71,4 @@ user_groups:
   - Visitors
 ---
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shuxin Liang is an M.Phil student in the Individualized Interdisciplinary Program at the Hong Kong University of Science & Technology (Guangzhou), interested in the field of Future Healthcare Technology. Academically, she got her bachelor’s degree from Sun Yat-sen University and a master’s degree from University College London, majoring in Clinical Nutrition and Public Health. She worked as a research assistant at Hong Kong Polytechnic University for pathological mechanism studies of diabetes mellitus after graduation, and later in 2019, devoted herself to ophthalmological research at Zhongshan Ophthalmic Center, Sun Yat-sen University. Her work included practicing multiple laboratory techniques, metabolomics analysis, clinical data management and statistical analysis, and health promotion education design and implementation.
