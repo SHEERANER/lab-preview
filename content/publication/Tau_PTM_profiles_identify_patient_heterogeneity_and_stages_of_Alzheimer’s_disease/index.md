@@ -32,14 +32,8 @@ featured: true
 links:
   - name: Custom Link
     url: https://repository.hkust.edu.hk/ir/Record/1783.1-118474
-url_pdf: https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2931393-3
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+    url_pdf: https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2931393-3
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
