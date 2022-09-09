@@ -19,15 +19,15 @@ content:
   phone: 888 888 88 88
   address:
     street: 1st Duxue Road
-    city: Guangzhou
-    region: CA
-    postcode: '94305'
+    city: GuangZhou
+    region: GuangDong
+    postcode: '511458'
     country: China
-    country_code: PRC
+    country_code: CHN
   coordinates:
     latitude: '22.89420'
     longitude: '113.47828'
-  directions: 1st Duxue Road, Nansha District, Guangzhou, Guangdong
+  directions: E2 604
   office_hours:
     - 'Weekday 09:00 to 17:00'
   #contact_links:
