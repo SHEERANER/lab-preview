@@ -5,7 +5,7 @@ authors:
   - Tang Shaojun
   - Steen Judith
 date: '2020-12-01T00:00:00Z'
-doi: ''
+doi: '10.1016/j.cell.2020.10.029'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-12-01T00:00:00Z'
