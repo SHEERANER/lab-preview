@@ -1,7 +1,7 @@
 ---
 title: 'Biological impact of iberdomide in patients with active systemic lupus erythematosus'
 authors:
-  - Tang Shaojun
+  - Lipsky, Peter; Dörner, T; Tang, Shaojun; Schafe, Peter H
 date: '2022-09-09T00:00:00Z'
 doi: '10.1136/annrheumdis-2022-222212'
 
