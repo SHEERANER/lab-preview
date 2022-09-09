@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: Shuxin Liang is an M.Phil student in the Individualized Interdisciplinary Program at the Hong Kong University of Science & Technology (Guangzhou), interested in the field of Future Healthcare Technology. Academically, she got her bachelor’s degree from Sun Yat-sen University and a master’s degree from University College London, majoring in Clinical Nutrition and Public Health. She worked as a research assistant at Hong Kong Polytechnic University for pathological mechanism studies of diabetes mellitus after graduation, and later in 2019, devoted herself to ophthalmological research at Zhongshan Ophthalmic Center, Sun Yat-sen University. Her work included practicing multiple laboratory techniques, metabolomics analysis, clinical data management and statistical analysis, and health promotion education design and implementation.
+bio: Shuxin Liang is an MPhil student in the Individualized Interdisciplinary Program at the Hong Kong University of Science & Technology (Guangzhou), interested in the field of Future Healthcare Technology. Academically, she got her bachelor’s degree from Sun Yat-sen University and a master’s degree from University College London, majoring in Clinical Nutrition and Public Health. She worked as a research assistant at Hong Kong Polytechnic University for pathological mechanism studies of diabetes mellitus after graduation, and later in 2019, devoted herself to ophthalmological research at Zhongshan Ophthalmic Center, Sun Yat-sen University. Her work included practicing multiple laboratory techniques, metabolomics analysis, clinical data management and statistical analysis, and health promotion education design and implementation.
 
 interests:
   - Neurodegenerative diseases
@@ -28,13 +28,13 @@ interests:
 
 education:
   courses:
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-    - course: Master of Clinical and Public Health Nutrition
+    - course: MPhil in in the Individualized Interdisciplinary Program
+      institution: Hong Kong University of Science & Technology (Guangzhou)
+      year: 2022-current
+    - course: MSC of Clinical and Public Health Nutrition
       institution: University College London
       year: 2012
-    - course: Bachelor of Preventive Medicine
+    - course: BS of Preventive Medicine
       institution: Sun Yat-Sen University
       year: 2009
 
