@@ -12,7 +12,7 @@ publishDate: '2020-12-14T00:00:00Z'
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['6']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Detection Methods in Precision Medicine*
@@ -31,13 +31,13 @@ links:
   - name: Custom Link
     url: https://hdl.handle.net/1783.1/118500
 url_pdf: https://pubs.rsc.org/en/content/chapter/9781788019958-00073/978-1-78801-995-8
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_code: '#'
+# url_dataset: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
