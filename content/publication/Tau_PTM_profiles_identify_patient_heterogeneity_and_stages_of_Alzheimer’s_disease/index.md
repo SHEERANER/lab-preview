@@ -1,14 +1,14 @@
 ---
 title: 'Tau PTM profiles identify patient heterogeneity and stages of Alzheimer’s disease'
 authors:
-  - Wesseling, Hendrik
-  - Tang, Shaojun
-  - Steen, Judith
-date: '2020-12T'
+  - Wesseling Hendrik
+  - Tang Shaojun
+  - Steen Judith
+date: '2020-12-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-12T'
+publishDate: '2020-12-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
