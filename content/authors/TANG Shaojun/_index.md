@@ -27,11 +27,8 @@ interests:
   - Multi-omics Data Integration
   - Machine Learning
 
-education and training:
+education:
   courses:
-    - course: Assistant Professor
-      institution: George town University Medical Center
-      year: 2016-2018
     - course: Staff Scientist in Department of Pathology
       institution: Harvard Medical School
       year: 2013-2016
