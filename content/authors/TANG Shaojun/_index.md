@@ -2,19 +2,22 @@
 # Display name
 title: TANG Shaojun
 
+# Username (this should match the folder name)
+authors: TANG Shaojun
+
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Bioscience and Biomedical Engineering from HKUST-GZ
+role: Assistant Professor of Bioscience and Biomedical Engineering from HKUST-GZ <br> Affiliate Assistant Professor of Division of Life Science, School of Science
 
 # Organizations/Affiliations
 organizations:
   - name: Hong Kong University of Science and Technology - GuangZhou
     url: 'https://hkust-gz.edu.cn/'
+  - name: Division of Life Science, School of Science, Hong Kong University of Science and Technology
+    url: 'https://life-sci.hkust.edu.hk/'
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
   - Bioinformatics
