@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Tang-Shaojun  
   Research Group
-hero_media: tangshaojun.png
+hero_media: introduction.mp4
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
