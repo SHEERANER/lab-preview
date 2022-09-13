@@ -47,11 +47,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Tang-lab. The laborary of Assistant Professor Tang-Shaojun from HKUST-GZ'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/SHEERANER/lab-preview'
     content_dir: content
     branch: main
   avatar:
