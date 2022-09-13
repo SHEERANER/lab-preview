@@ -15,9 +15,6 @@ role: Assistant Professor of Bioscience and Biomedical Engineering from HKUST-GZ
 organizations:
   - name: Hong Kong University of Science and Technology - GuangZhou
     url: 'https://hkust-gz.edu.cn/'
-  - name: Division of Life Science, School of Science, Hong Kong University of Science and Technology
-    url: 'https://life-sci.hkust.edu.hk/'
-
 
 interests:
   - Bioinformatics
@@ -70,7 +67,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Assistant Professor
+
+
 ---
+
+
 Dr. Shaojun Tang is an Assistant Professor in Bioscience and Biomedical Engineer Thrust, an affiliated Assistant Professor at Division of Life Science at the Hong Kong University of Science & Technology (HKUST). After graduating from the Sun Yat-Sen University, he went on to USA and obtained his Ph.D. in Bioinformatics and M.Sc. in Computer Science at the University of Florida. He worked as a Postdoctoral Research Scientist in Boston Children’s Hospital, Harvard Medical School. There, he developed a computational method—fCI, which integrates high-throughput transcriptomics & proteomics data and received a patent for the development of a computational method for tauopathy diagnosis and treatment. 
 <br>
 In 2016, he moved to Georgetown University as an assistant professor working on cancer immunotherapy and translational medicine. He has been focusing on the study of neurodegenerative disease using high-throughput proteomics and transcriptomics data. In addition, he continues to work on cancer genomics and precision medicine. His current interests also include the development of computational methods and machine learning approaches in biology and medicine.
