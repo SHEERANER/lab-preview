@@ -9,7 +9,7 @@ authors: TANG Shaojun
 superuser: false
 
 # Role/position
-role: Assistant Professor of Bioscience and Biomedical Engineering from HKUST-GZ <br> Affiliate Assistant Professor of Division of Life Science, School of Science
+role: Assistant Professor of Bioscience and Biomedical Engineering from HKUST-GZ <br> Affiliate Assistant Professor of Division of Life Science, School of Science from HKUST
 
 # Organizations/Affiliations
 organizations:
