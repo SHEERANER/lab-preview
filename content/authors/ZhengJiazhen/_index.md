@@ -21,9 +21,9 @@ organizations:
 bio: I am a Ph.D student at HKUST(GZ), supervised by Prof. Tang.
 
 interests:
-  - Examining the Associations between Health Indicators 
-  - Human Behaviors
-  - Adverse Outcomes
+  - Epidemiology and health statistics 
+  - Risk factors for chronic diseases
+  - Healthy aging 
 
 education:
   courses:
