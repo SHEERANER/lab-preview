@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Bioscience and Biomedical engineering
       institution: HKUST-GZ
-      year: 2022-current
+      year: 2021-current
     - course: Master in Biochemistry and Molecular Biology
       institution: Sun Yat-sen University 
       year: 2018-2021
